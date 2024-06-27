@@ -1,6 +1,6 @@
 import { ComponentPropsWithoutRef, ElementType, ReactNode } from 'react'
 
-import { ArrowBack } from '@/assets/icons'
+import ArrowBack from '@/assets/icons/components/ArrowBack'
 import clsx from 'clsx'
 
 import s from './button.module.scss'
